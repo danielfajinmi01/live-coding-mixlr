@@ -305,7 +305,7 @@ header {
 
 .read-cases-sec {
   width: 80%;
-  padding-top: 90px;
+  padding-top: 100px;
   margin: auto;
   text-align: center;
 }
@@ -316,14 +316,16 @@ header {
 
 .cards {
   display: flex;
-  gap: 20px;
-  padding-top: 30px;
-  padding-bottom: 180px;
+  gap: 30px;
+  margin-top: 80px;
+  margin-bottom: 10px;
 }
+
+
 .card {
   position: relative;
   width: 100%;
-  height: 250px;
+  height: 300px;
   background-color: red;
   border-radius: 10px;
   z-index: -1;
@@ -341,7 +343,6 @@ header {
   position: absolute;
   background-color: #ed1c23;
   width: 100%;
-  /* left: 0; */
   top: 95%;
   height: 120px;
   border-radius: 0px 0px 10px 10px;
@@ -439,6 +440,7 @@ header {
 }
 
 article {
+  margin-top: 200px;
   background-image: url("../Multimedia/Images//studio-1408-f3d57098aa12b4fd9001730d971d0bc2d6771fc1316a649cfae7a84beabab901.jpg");
   height: 700px;
   background-size: cover;
