@@ -379,7 +379,7 @@ header {
 .three {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.781)),
-    url("./Multimedia/Images/hero-1408-2bb8436e462b3ad69919eecebfcb727626657dfad3726f7fa8d71b4e08a349a6.jpg");
+    url("../Multimedia/Images/hero-1408-2bb8436e462b3ad69919eecebfcb727626657dfad3726f7fa8d71b4e08a349a6.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   object-fit: fill;
@@ -447,7 +447,7 @@ header {
 }
 
 article {
-  background-image: url(/Multimedia/Images//studio-1408-f3d57098aa12b4fd9001730d971d0bc2d6771fc1316a649cfae7a84beabab901.jpg);
+  background-image: url("../Multimedia/Images//studio-1408-f3d57098aa12b4fd9001730d971d0bc2d6771fc1316a649cfae7a84beabab901.jpg");
   height: 700px;
   background-size: cover;
   color: white;
@@ -547,21 +547,21 @@ article {
 }
 
 .create{
-    background-image: url(/Multimedia/Images/live-stream-908-d81a33c4c45727320d90580d0c1cf48f28a1227729f6584774c904db68536400.png);
+    background-image: url("../Multimedia/Images/live-stream-908-d81a33c4c45727320d90580d0c1cf48f28a1227729f6584774c904db68536400.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .dis{
-    background-image: url(/Multimedia/Images/distribute-908-70ac960d81de52a83417084a49070ccd6a5e48e7c6895994fa83638d731eea76.png);
+    background-image: url("../Multimedia/Images/distribute-908-70ac960d81de52a83417084a49070ccd6a5e48e7c6895994fa83638d731eea76.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .host{
-    background-image: url(/Multimedia/Images/host-908-8cb36e7630143d0770af251ce24f6bfd457b5920ca0d56b75119a8ffc422b588.png);
+    background-image: url("../Multimedia/Images/host-908-8cb36e7630143d0770af251ce24f6bfd457b5920ca0d56b75119a8ffc422b588.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
